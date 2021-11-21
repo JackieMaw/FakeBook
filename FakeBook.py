@@ -38,7 +38,7 @@ class Post():
         self.likes = likes
 
     def __repr__(self):
-        return f'Post({self.name} [{self.timestamp}] => {self.message} {self.likes} likes)'  
+        return f'Post({self.name}|{self.timestamp}|{self.message}|{self.likes})'  
 
     def __str__(self):
         return f'{self.name} [{self.timestamp}] => {self.message} ({self.likes} likes)'
@@ -84,8 +84,5 @@ def print_friends():
     print(f'You have {len(FRIENDS)} friends:')
     for friend in FRIENDS:
         print(f"     {friend}")
-
-def pretty_print(post : Post):
-    print(f'{post.name} [{post.timestamp}] => {post.message} ({post.likes} likes)')
 
 #============================================
