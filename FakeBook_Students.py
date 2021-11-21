@@ -61,7 +61,7 @@ print(is_friend("Noah"))
 print("Is Maya a friend?")
 print(is_friend("Maya"))
 
-#TASK 3 - FILTER NEWS FEED
+#TASK 3 - DISPLAY NEWS FEED
 
 #a) Display News Feed
 

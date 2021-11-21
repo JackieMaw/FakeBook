@@ -30,17 +30,14 @@ Required: Post-its, a wall to stick on
 ================================================
 EXERCISE: Build a FakeBook News Feed
 
-Break into pairs, explain pair programming
-
-The students are given some sample code which displays a text-based news feed, a list of users and a list of friends.
+(Break into pairs, explain pair programming)
 
 Fast forward a week and your team has already completed these features:
 
-1. Buid a List of Users - DONE
-2. View the List of Users - DONE
-3. Build a List of Friends  - DONE
-4. Check if a User is a Friend - DONE
-5. Randomly Generate some Posts for Testing - DONE
+1. Build and Display a List of Users - DONE
+2. Build and Display a List of Friends - DONE
+3. Check if a User is a Friend - DONE
+4. Randomly Generate some Posts for Testing - DONE
 
 Test the features your team already wrote:
 
@@ -51,14 +48,10 @@ print(POSTS)
 
 And then work on the remaining tasks:
 
-6. Add Friends
-7. Build a News Feed to view all Posts 
-8. Build a News Feed to view only Posts from one Friend
-9. Build a News Feed to view only Posts from all your Friends
-10. Build a News Feed to view only the last 20 Posts from your Friends
-11. Add a Post
-12. Like a Post
-13. Like all Posts from a Friend
+5. Add Friends
+6. Build a News Feed
+7. Add a Post
+8. Like a Post
 
 Work in pairs. Assume we are already logged in for a single user.
 
