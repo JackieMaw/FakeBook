@@ -1,0 +1,28 @@
+WORKSHOP OVERVIEW
+
+Introduction - 5 mins: Introduction into the outline of the lesson and introduce yourself & Introduce Lauriann's STEM Club 
+Presentation – 15 mins: 5 mins Career talk + 10 mins Lesson on Software Development.
+Activity – 65 mins: 15 mins Analysis & Design + 30mins Building + 5 mins Testing + 15 mins Retrospective
+Feedback forms – 10 mins: Students fill in feedback on how the session went.
+
+Presentation = 15 minutes
+About Me and My Job (5 mins)
+The PDCA Cycle (3 mins)
+Different roles in Software Development (2 mins)
+Agile - Incremental Delivery (5 mins) 
+
+Workshop Activity
+
+- PLAN (15mins)
+10 mins to do Analysis + Design, 5 mins to Discuss
+- DO - Build it! (35mins)
+Explain Pair Programming
+Print out task list in case anyone wants to move forward faster?
+- CHECK - Does it work? (5mins)
+Invite someone from another team to check what you have built and see if it works.
+- ACT/ADJUST - How did it go? (15mins)
+10 mins to do a Retrospective, 5 mins to share
+Retrospective, how did it go? what challenges did we face? what should we keep doing?
+Use post-its to identify
+- Start = yellow/blue, Stop = pink, Continue = green
+Required: Post-its, a wall to stick on
